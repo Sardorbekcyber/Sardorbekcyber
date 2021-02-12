@@ -2,7 +2,7 @@
 
 <!--
 **Sardorbekcyber/Sardorbekcyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[![Muhammadsher's github ranking](https://github-readme-ranking.vercel.app/api/rank?username=Sardorbekcyber&country_code=uzbekistan)](https://github.com/Muhammadsher/github-readme-ranking)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
