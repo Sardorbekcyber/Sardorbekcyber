@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Muhammadsher's github ranking](https://github-readme-ranking.vercel.app/api/rank?username=Sardorbekcyber&country_code=uzbekistan&show_private=true&theme=dark)](https://github.com/Muhammadsher/github-readme-ranking)
+[![Sardor's github ranking](https://github-readme-ranking.vercel.app/api/rank?username=Sardorbekcyber&country_code=uzbekistan&show_private=true&theme=dark)](https://github.com/Muhammadsher/github-readme-ranking)
 <!--
 **Sardorbekcyber/Sardorbekcyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
