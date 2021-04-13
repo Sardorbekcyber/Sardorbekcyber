@@ -1,8 +1,5 @@
 ### Hi there 👋
 [![Sardor's github ranking](https://github-readme-ranking.vercel.app/api/rank?username=Sardorbekcyber&country_code=uzbekistan&show_private=true&theme=dark)](https://github.com/Muhammadsher/github-readme-ranking)
-<!--
-**Sardorbekcyber/Sardorbekcyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 [![Awesome Kotlin Badge](https://kotlin.link/awesome-kotlin.svg)](https://github.com/KotlinBy/awesome-kotlin)
 
 Here are some ideas to get you started:
