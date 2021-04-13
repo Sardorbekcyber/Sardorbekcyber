@@ -3,6 +3,8 @@
 <!--
 **Sardorbekcyber/Sardorbekcyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+[![Awesome Kotlin Badge](https://kotlin.link/awesome-kotlin.svg)](https://github.com/KotlinBy/awesome-kotlin)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
