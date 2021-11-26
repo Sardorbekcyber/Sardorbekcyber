@@ -21,7 +21,7 @@
   
 ## Reach me out 
   
-  [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/valentinbriand42)
+  [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/sardor-narziyev/)
 
 ### GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sardorbekcyber&show_icons=true&count_private=true&theme=dracula&hide_border=true)  
